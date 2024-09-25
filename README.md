@@ -1,1 +1,1 @@
- 🟣 $\textsf{\color{#a832a4}{EG Games}}$ 🟣
+# 🟣 $\textsf{\color{#a832a4}{EG Games}}$ 🟣
